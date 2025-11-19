@@ -7,3 +7,4 @@ This repository contains my Excel practice files as part of my Data Analyst prep
    - Logic functions
    - Basic formulas
    - Colour scaling
+   - Drop dowm list
