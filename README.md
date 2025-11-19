@@ -4,5 +4,5 @@ This repository contains my Excel practice files as part of my Data Analyst prep
 1. **practice.xlsx**
    - Employee dataset
    - Text cleaning
-   - logic functions
+   - Logic functions
    - Basic formulas
