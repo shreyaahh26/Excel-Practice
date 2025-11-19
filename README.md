@@ -6,3 +6,4 @@ This repository contains my Excel practice files as part of my Data Analyst prep
    - Text cleaning
    - Logic functions
    - Basic formulas
+   - Colour scaling
